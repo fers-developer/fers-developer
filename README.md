@@ -2,7 +2,9 @@
 
 
 ## About me
-I consider myself someone passionate about technology, programming languages, software development, among other things. I have a clear goal; to be a professional in technology, to bring an important value, and to never stop learning.
+I consider myself a person passionate about technology, especially programming, software development, among other things. I have a clear goal, to be a professional who can bring an important value.
+
+
 <!--
 **fers-developer/fers-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
