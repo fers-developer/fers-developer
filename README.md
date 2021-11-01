@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Fers
 
+![Welcome to my GitHub](/assets/images/banner.png)
 
 ## About me
 I consider myself a person passionate about technology, especially programming, software development, among other things. I have a clear goal, to be a professional who can bring an important value.
