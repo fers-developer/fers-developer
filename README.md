@@ -5,7 +5,7 @@
 ## :information_source: About me
 I consider myself a person passionate about technology, especially programming and software development. Some technologies that I use are HTML, CSS/SASS, JavaScript, React.js, TypeScript, among others.
 * :seedling: I'm currently learning React.js to improve my Frontend skills.
-* :coin: Crypto and Blockchain are the next topics I would like to learn about!!!
+* :coin: Crypto, Blockchain and Web3 are the next topics I would like to learn about!!!
 * :chart_with_upwards_trend: I'm constantly studying and putting in practice that I learn it on projects and challenges.
 * :computer: My favorites platforms to practice my skills are Frontend Mentor, HackerRank and CodeChef.
 
